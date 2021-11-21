@@ -1,2 +1,2 @@
 # Ethereum-Blockchain
-Solidiy
+Solidity
